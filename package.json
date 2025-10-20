@@ -6,3 +6,9 @@
     "build": "echo 'no build script'"
   }
 }
+
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
