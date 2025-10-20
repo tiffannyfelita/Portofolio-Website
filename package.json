@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "public": true,
   "scripts": {
-    "build": "[my-framework] build --output public"
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
   }
 }
