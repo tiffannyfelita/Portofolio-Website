@@ -3,12 +3,6 @@
   "version": "0.1.0",
   "public": true,
   "scripts": {
-    "build": "echo 'no build script'"
-  }
-}
-
-{
-  "scripts": {
     "build": "[my-framework] build --output public"
   }
 }
